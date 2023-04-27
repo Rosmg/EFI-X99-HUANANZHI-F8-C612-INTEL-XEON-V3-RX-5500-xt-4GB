@@ -6,7 +6,7 @@
 **Current OpenCore**: 0.8.2
 
 ## Complete hardware specs
-- Intel iE59 2696 V3 
+- Intel  Xeon E5 2696 V3 
 - Huananzhi F8 @ BIOS UnLock Turbo Boost https://www.youtube.com/watch?v=zZPDmi02Kik&t=10s
 - RX 5500 XT - Gigabyte + Gaming OC 4G 
 - 4x 8Gb DDR4 2133Mhz ECC REG PC4-2133P
@@ -37,8 +37,7 @@
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
-- [BASE EFI - for 11th Intel Gen - Rocket Lake](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-11THGEN-ROCKET-LAKE)
-- tonymacx86.com - in special @etorix and @CaseySJ
+- [BASE EFI - for 4th Intel Gen - Haswell-E](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E)
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
