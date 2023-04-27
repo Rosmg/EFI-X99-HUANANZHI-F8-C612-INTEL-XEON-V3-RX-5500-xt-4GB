@@ -7,7 +7,7 @@
 
 ## Complete hardware specs
 - Intel iE59 2696 V3 
-- Huananzhi F8 @ BIOS UnLock Turbo Boost
+- Huananzhi F8 @ BIOS UnLock Turbo Boost https://www.youtube.com/watch?v=zZPDmi02Kik&t=10s
 - RX 5500 XT - Gigabyte + Gaming OC 4G 
 - 4x 8Gb DDR4 2133Mhz ECC REG PC4-2133P
 
