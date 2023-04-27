@@ -1,6 +1,5 @@
 # Huananzhi F8 C612 + E5 2696 V3 + RX 5500 XT 
 
-![about-12 3 1](https://user-images.githubusercontent.com/23700365/161353027-9aaeddf5-7457-49a8-b322-4e99ab94c679.png)
 
 **Latest working macOS**: 12.4
 <br>
