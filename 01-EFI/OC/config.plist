@@ -459,6 +459,8 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
@@ -487,8 +489,10 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string>18.5.0</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>18.5.0</string>
 				<key>Replace</key>
 				<data>MdKQkJCQkA==</data>
 				<key>ReplaceMask</key>
@@ -515,6 +519,8 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string>19.9.9</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
@@ -543,6 +549,8 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
@@ -571,6 +579,8 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
@@ -599,6 +609,8 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
@@ -627,6 +639,8 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
@@ -655,6 +669,8 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
@@ -683,8 +699,10 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string>21.1.0</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>20.4.0</string>
 				<key>Replace</key>
 				<data>OgYAAAAAAAAAAAAAAAAAAB8=</data>
 				<key>ReplaceMask</key>
@@ -711,8 +729,10 @@
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
+				<key>MaxKernel</key>
+				<string>21.1.0</string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>20.4.0</string>
 				<key>Replace</key>
 				<data>igKEwOsN</data>
 				<key>ReplaceMask</key>
@@ -973,7 +993,7 @@
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>qqqqqqqq</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -983,7 +1003,7 @@
 			<key>SystemSerialNumber</key>
 			<string>XXXXXXXXXXXX</string>
 			<key>SystemUUID</key>
-			<string>XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX</string>
+			<string>XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
